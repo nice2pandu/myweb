@@ -33,14 +33,7 @@
 		    <url>http://13.250.46.148:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
-	
-	<pluginRepositories>
-	    <pluginRepository>    
-		<id>maven1</id>
-		<name>Maven.org</name>
-		<url>http://repo1.maven.org/maven2</url>
-	    </pluginRepository>
-	</pluginRepositories>
+
 
 	
 </project>
