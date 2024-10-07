@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JENKINS WITH PIPELINE WEBHOOK</h1>      
+    <h1>JAVA MANUAL PROJECT</h1>      
     <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
   </div>    
 </div>
