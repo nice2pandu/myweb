@@ -12,8 +12,8 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA MANUAL PROJECT</h1>      
-    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+    <h1>JAVA PROJECT 1</h1>      
+    <p>THIS IS PROJECT NO 1 WITH AUTOMATE</p>
   </div>    
 </div>
 
