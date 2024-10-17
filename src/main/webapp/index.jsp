@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA PROJECT 1 POLL SCM MADE SOME CHANGES</h1>      
+    <h1>JAVA PROJECT 1 WEBHOOK WITH GITHUBS</h1>      
     <p>THIS IS PROJECT NO 1 WITH AUTOMATE</p>
   </div>    
 </div>
