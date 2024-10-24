@@ -12,8 +12,8 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA PROJECT 1 WEBHOOK WITH GITHUBS</h1>      
-    <p>THIS IS PROJECT NO 1 WITH AUTOMATE</p>
+    <h1>JAVA PROJECT 2 MASTER/SLAVE CONCEPT</h1>      
+    <p>THIS IS PROJECT NO 2 WITH AUTOMATE</p>
   </div>    
 </div>
 
