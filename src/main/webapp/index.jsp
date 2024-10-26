@@ -12,8 +12,8 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA PROJECT 2 MASTER/SLAVE CONCEPT</h1>      
-    <p>THIS IS PROJECT NO 2 WITH AUTOMATE</p>
+    <h1>JAVA PROJECT pipeline project</h1>      
+    <p>THIS IS PROJECT</p>
   </div>    
 </div>
 
