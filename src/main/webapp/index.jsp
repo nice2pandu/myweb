@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA PROJECT pipeline project</h1>      
+    <h1>JAVA PROJECT pipeline with SONARQUBE</h1>      
     <p>THIS IS PROJECT</p>
   </div>    
 </div>
