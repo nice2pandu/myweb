@@ -12,7 +12,7 @@
 
 <div class="container">
   <div class="jumbotron">
-    <h1>JAVA PROJECT NEXUS PROJECT</h1>      
+    <h1>JAVA PROJECT NEXUS PROJECT< WITH PIPELINNE/h1>      
     <p>THIS IS PROJECT</p>
   </div>    
 </div>
